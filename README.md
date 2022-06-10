@@ -1,4 +1,14 @@
-# dbank
+# dbank: (Bank.in - Brought to you by The Hacking School)
+
+## A note from the Developer(@athikafz)
+
+This project basically is a Decentralised Bank application that compounds your money with every second.
+
+I call it "Bank.in" - Brought to you by The Hacking School :)
+
+Following is the documentation that will help you run the code locally! Happy coding!
+
+## Welcome
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
@@ -52,8 +62,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 
 
 
-### A note from the Developer(@athikafz)
 
-This project basically is a Decentralised Bank application that compounds your money with every second.
-
-I call it "Bank.in" - Brought to you by The Hacking School :)
