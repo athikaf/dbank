@@ -2,7 +2,9 @@
 
 ## A note from the Developer(@athikafz)
 
-This project basically is a Decentralised Bank application that compounds your money with every second.
+Firstly, note that this is an *open-source personal project*! So basically it is not real. I did it to gain hands-on experience in dfx protocols. 
+
+So what is it? It is a Decentralised Bank application that compounds your money with every second.
 
 I call it "Bank.in" - Brought to you by The Hacking School :)
 
