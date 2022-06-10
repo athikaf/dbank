@@ -2,7 +2,7 @@
 
 ## A note from the Developer(@athikafz)
 
-Firstly, note that this is an *open-source personal project*! So basically it is not real. I did it to gain hands-on experience in dfx protocols. 
+Firstly, note that this is an *open-source personal project*! So basically it is not real. I developed it to gain hands-on experience in dfx protocols. 
 
 So what is it? It is a Decentralised Bank application that compounds your money with every second.
 
