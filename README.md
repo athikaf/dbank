@@ -1,4 +1,4 @@
-# dbank: (Bank.in - Brought to you by The Hacking School)
+# dbank: (Bank.in)
 
 ## A note from the Developer(@athikafz)
 
